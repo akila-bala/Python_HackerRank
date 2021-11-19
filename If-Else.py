@@ -13,4 +13,4 @@ elif(n>=2 and n<=5):
 elif(n>=6 and n<=20):
     print("Weird")
 elif(n>20):
-    print("Not weird")
+    print("Not Weird")
